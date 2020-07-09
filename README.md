@@ -1,0 +1,1 @@
+Cooperative-sytem web app built with django,html,css and some other python libraries such as pandas,xlrd,requests, and so on, helps cooperative scieties keep track on the money saved, balnce, and loan deductions.It's easy to use
